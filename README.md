@@ -1,2 +1,2 @@
-# STT_02_HoHoangVanAnh_20098521_Lab08
+# STT_02_HoHoangVanAnh_20098521_Lab07
 Lập trình thiết bị di động 
